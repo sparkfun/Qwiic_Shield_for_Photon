@@ -18616,7 +18616,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="182.88" y="175.26" size="1.778" layer="97" font="vector">VCC Range: 1.9v-3.6v</text>
 <text x="170.688" y="11.43" size="2.54" layer="94">Joel Bartlett</text>
 <text x="174.752" y="7.366" size="2.54" layer="94" font="vector">Andy England</text>
-<text x="236.22" y="7.62" size="2.54" layer="94" font="vector">v01</text>
+<text x="236.22" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
