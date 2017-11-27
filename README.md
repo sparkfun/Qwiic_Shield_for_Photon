@@ -1,18 +1,28 @@
-Qwiic Shield for Photon 
+SparkFun Qwiic Shield for Photon
 ========================================
 
-![Qwiic Shield for Photon](https://cdn.sparkfun.com/assets/parts/1/2/1/4/2/Qwiic_Photon_Shield_05.jpg)
+![Qwiic Shield for Photon](https://cdn.sparkfun.com/assets/parts/1/2/5/2/6/14477-01.jpg)
 
-[*SPX-14202*](https://www.sparkfun.com/products/14202)
+[*Qwiic Shield for Photon*](https://www.sparkfun.com/products/14477)
 
-The Qwiic Shield for Photo connects the I<sup>2</sup>C bus (GND, 3.3V, SDA, and SCL) from the [Particle Photon](https://www.sparkfun.com/products/13774) to the SparkFun Qwiic system. 
+This is a board that connects the I<sup>2</sup>C bus on the Photon to 4 Qwiic connectors.
+
+Repository Contents
+-------------------
+
+* **/Hardware** - Eagle design files (.brd, .sch)
+* **/Production** - Production panel files (.brd)
+
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-shield-for-arduino--photon-hookup-guide)** - Basic hookup guide for the Qwiic Shield for Photon.
 
 License Information
 -------------------
 
-This product is _**open source**_!
+This product is _**open source**_! 
 
-Please review the LICENSE.md file for license information.
+Please review the LICENSE.md file for license information. 
 
 If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 

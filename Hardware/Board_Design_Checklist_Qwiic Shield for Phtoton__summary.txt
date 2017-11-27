@@ -1,9 +1,0 @@
-1) Is the I2C address in the schematic? [NO]
-comment: shield
-
-2) Is the I2C pull-up resistor isolation jumper present? [NO]
-comment: shield
-
-3) Are opposing 0.1 inch headers spaced to fit into a breadboard? [NO]
-comment: 3.3 and gnd rails are not spaced for breadboard
-
